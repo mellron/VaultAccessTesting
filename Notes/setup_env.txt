@@ -1,0 +1,2 @@
+export VAULT_ROLE_ID="your_role_id"
+export VAULT_SECRET_ID="your_secret_id"

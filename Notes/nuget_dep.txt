@@ -1,0 +1,3 @@
+dotnet add package VaultSharp
+dotnet add package Microsoft.Extensions.Configuration
+dotnet add package Microsoft.Extensions.DependencyInjection
